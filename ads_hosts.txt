@@ -1,5 +1,3 @@
-
-#NAME?
 -rotation.de
 -traffic.com
 0.fls.doubleclick.net
