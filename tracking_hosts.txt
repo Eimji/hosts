@@ -624,12 +624,6 @@ bdg001a.com
 beacon.asda.com
 beacon.groceries.asda.com
 beacon.guim.co.uk
-beacons.gcp.gvt2.com
-beacons.gvt2.com
-beacons2.gvt2.com
-beacons3.gvt2.com
-beacons4.gvt2.com
-beacons5.gvt2.com
 beaconsinspace.com
 beanstock.com
 beemray.com
