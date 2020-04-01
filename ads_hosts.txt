@@ -40219,7 +40219,6 @@ bbcdn.go.ihned.bbelements.com
 bbcdn.go.pl.bbelements.com
 bbcdotcom.2cnt.net
 bbcdotcomtest.2cnt.net
-bbci.co.uk
 bbcios.2cnt.net
 bbciostest.2cnt.net
 bbckaxifryxcno.com
@@ -102847,7 +102846,6 @@ r.api.xoxknct.com
 r.apina.biz
 r.applovin.com
 r.appsflyer.com
-r.bbci.co.uk
 r.best-rated-apps.com
 r.bid4keywords.com
 r.browser.intl.miui.com
