@@ -64307,7 +64307,6 @@ feedback.windows.com
 feedbackcensus.com
 feedbackresearch.com
 feedblitz.com
-feedburner.google.com
 feedcache.vizury.com
 feedcat.net
 feeder.xxx
@@ -136819,7 +136818,6 @@ www.gooddata.com
 www.goodsavingtips.com
 www.goodtraffic.net
 www.googl.e.com-folder.co
-www.google-analytics.com
 www.google-analytics.com.domain.name
 www.google-analytics.com.prx.proxywebsite.co.uk
 www.google-docs.org
