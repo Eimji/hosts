@@ -116326,6 +116326,7 @@ taboola-winners-eu-west-1-rtb.adroll.com
 taboola-winners-us-east-1-rtb.adroll.com
 taboola-winners-us-west-2-rtb.adroll.com
 taboola.com
+taboola.com.edgekey.net
 taboolasyndication.com
 tabunder.com
 tabwl.com
@@ -118735,7 +118736,6 @@ todaysfinder.com
 todayshow.us.intellitxt.com
 todayssn.com
 todaytodo.ru
-todayweather.co
 todich.ru
 todigroup.adk2.co
 todigroup.adk2x.com
