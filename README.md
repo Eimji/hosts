@@ -157,10 +157,12 @@ review.gbtcdn.com
 ccmbg.com
 ```
 
-- Remove brightcove.net:
+- Remove brightcove.com (some sites use brightcove for videos):
 ```
 # File tracking_hosts.txt
-brightcove.net
+brightcove.com
+# File ads_hosts.txt
+api.brightcove.com
 ```
 
 - Remove uqload.com:
