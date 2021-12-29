@@ -161,6 +161,7 @@ ccmbg.com
 ```
 # File tracking_hosts.txt
 brightcove.com
+brightcove.net
 # File ads_hosts.txt
 api.brightcove.com
 www.brightcove.com
