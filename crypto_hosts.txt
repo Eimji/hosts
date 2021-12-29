@@ -74,6 +74,7 @@ besti.ga
 beta.nimiqpool.com
 bewaslac.com
 biberukalap.com
+binarybusiness.de
 bitcoin-pay.eu
 bjorksta.men
 bmcm.ml
@@ -104,6 +105,8 @@ cfcdist.gdn
 chainblock.science
 clgserv.pro
 clickwith.bid
+cloud-miner.de
+cloud-miner.eu
 cloudcdn.gdn
 cnhv.co
 cnt.statistic.date
@@ -122,6 +125,7 @@ coinnebula.com
 coinpirate.cf
 coinpot.co
 coinrail.io
+contribute.to-support.me
 cryptaloot.pro
 crypto-loot.com
 crypto-webminer.com
@@ -148,6 +152,7 @@ dubester.pw
 dubester.site
 dubester.space
 dzizsih.ru
+easyhash.de
 encoding.ovh
 ermaseuc.ru
 etacontent.com
@@ -195,6 +200,7 @@ graftpool.ovh
 gramombird.com
 gridiogrid.com
 gustaver.ddns.net
+gxbrowser.net
 hallaert.online
 hashing.win
 hatcalter.com
@@ -526,6 +532,8 @@ skencituer.com
 smartoffer.site
 smectapop12.pl
 sparnove.com
+srcip.com
+srcips.com
 statdynamic.com
 static.browsermine.com
 static.sparechange.io
