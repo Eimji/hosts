@@ -163,6 +163,7 @@ ccmbg.com
 brightcove.com
 # File ads_hosts.txt
 api.brightcove.com
+www.brightcove.com
 ```
 
 - Remove uqload.com:
