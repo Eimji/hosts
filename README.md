@@ -4,7 +4,7 @@
 
 ```
 # Source: Block List Project
-# https://blocklist.site/app/index.php
+# https://blocklistproject.github.io/Lists/
 # lists: abuse, ads
 # Github:
 # https://blocklistproject.github.io/Lists/alt-version/
@@ -19,8 +19,8 @@ Clean the original files using VS Code with the following regex:
 
 ```
 # Source: Block List Project
-# https://blocklist.site/app/index.php
-# list: adult, drugs
+# https://blocklistproject.github.io/Lists/
+# list: porn, drugs
 # Github:
 # https://blocklistproject.github.io/Lists/alt-version/
 
@@ -34,7 +34,7 @@ Clean the original files using VS Code with the following regex:
 
 ```
 # Source: Block List Project
-# https://blocklist.site/app/index.php
+# https://blocklistproject.github.io/Lists/
 # lists: fraud, malware, phishing, piracy, ransomware, scam
 # Github:
 # https://blocklistproject.github.io/Lists/alt-version/
@@ -56,8 +56,8 @@ Clean the original files using VS Code with the following regex:
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
 # Source: Block List Project
-# https://blocklist.site/app/index.php
-# lists: tracking
+# https://blocklistproject.github.io/Lists/
+# list: tracking
 # Github:
 # https://blocklistproject.github.io/Lists/alt-version/
 
@@ -86,8 +86,9 @@ Clean the original file using VS Code with the following regex:
 
 ## Fix the lists
 
-- Remove gvt1.com and gvt2.com, etc. used by Google services and Chrome update:
+- Remove the `www.` prefix in domains
 
+- Remove gvt1.com and gvt2.com, etc. used by Google services and Chrome update:
 ```
 # File ads_hosts.txt
 beacons.gcp.gvt2.com
@@ -167,7 +168,7 @@ api.brightcove.com
 www.brightcove.com
 ```
 
-- Remove uqload.com:
+- Remove uqload.com (video streaming):
 ```
 # Files ads_hosts.txt and security_hosts.txt
 uqload.com
@@ -180,8 +181,31 @@ wwww.uqload.com
 jackjones.com
 ```
 
+- Remove ultimedia.com (video hosting and streaming platform like YouTube):
+```
+# Files ads_hosts.txt, tracking_hosts.txt
+ultimedia.com
+```
+
+- Remove fundingchoicesmessages.google.com (used to displaay a cookie consent popup, otherwise videos on bbc.com can't be displayed):
+```
+# Files ads_hosts.txt
+fundingchoices.google.com
+fundingchoicesmessages.google.com
+```
+
+- Remove codepushupdates.azureedge.net (Microsoft cloud):
+```
+# File ads_hosts.txt
+codepushupdates.azureedge.net
+```
+
 - Add taboola.com.edgekey.net in ads_hosts.txt:
 ```
 # File ads_hosts.txt
 taboola.com.edgekey.net
 ```
+
+## Last updated
+
+April 24, 2022
