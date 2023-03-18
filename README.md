@@ -233,6 +233,13 @@ taboola.com.edgekey.net
 sdk.privacy-center.org
 ```
 
+- Remove imasdk.googleapis.com:
+
+```
+# File ads_hosts.txt
+imasdk.googleapis.com
+```
+
 ## Last updated
 
-Feb. 23, 2023
+Mar. 18, 2023
