@@ -256,6 +256,13 @@ geogslb.com
 yieldoptimizer.com
 ```
 
+- Add adnxs.com:
+
+```
+# File security_hosts.txt
+adnxs.com
+```
+
 ## Last updated
 
 Jul. 2, 2023
