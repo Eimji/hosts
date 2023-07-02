@@ -240,6 +240,22 @@ sdk.privacy-center.org
 imasdk.googleapis.com
 ```
 
+- Add adjust.net.in, adjust.world, apptrace.com, admaxmedia.io, adnxs-simple.com,
+appnexusgslb.net, geoadnxs.com, geogslb.com, yieldoptimizer.com:
+
+```
+# File ads_hosts.txt
+adjust.net.in
+adjust.world
+apptrace.com
+admaxmedia.io
+adnxs-simple.com
+appnexusgslb.net
+geoadnxs.com
+geogslb.com
+yieldoptimizer.com
+```
+
 ## Last updated
 
-Mar. 18, 2023
+Jul. 2, 2023
