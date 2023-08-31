@@ -57,6 +57,7 @@
 3lift.com
 45.gs
 4690y10pvpq8.com
+4dex.io
 4dsply.com
 4info.com
 4nabs.com
@@ -677,6 +678,7 @@ aimtell.com
 ainterme.com
 airbrake.io
 airdropanalytics.com
+airlytics.airlock.twcmobile.weather.com
 airpr.com
 airwave.asia
 airwaveasia.com
@@ -851,6 +853,7 @@ analytics.mlstatic.com
 analytics.mobile.walmart.com
 analytics.move.ru
 analytics.msn.com
+analytics.net
 analytics.newsinc.com
 analytics.ngs.ru
 analytics.nike.com
@@ -945,6 +948,7 @@ apmebf.com
 apn.co.nz
 apnex.us
 apnx.us
+api-analytics-de.zepp.com
 app-analytics-cn.huami.com
 app-analytics-de.huami.com
 app-analytics-in.huami.com
@@ -2160,6 +2164,7 @@ doma2008.com
 domdex.com
 dot.idot.cz
 dotandad.com
+dotmetrics.com
 dotmetrics.net
 dotomi.com
 doubleclick.net
@@ -2542,6 +2547,7 @@ fitanalytics.com
 fits.me
 flagcounter.com
 flamemobi.download
+flashb.id
 flashtalking.com
 flex.msn.com
 flexlinks.com
@@ -2754,6 +2760,7 @@ grapeshot.org
 grapeshotinc.com
 grapeshotkeywords.com
 grapeshotkeywords.net
+graph.facebook.com
 graphiq.com
 gravelycontainsstruggle.com
 gravelyelectricthicket.com
@@ -15444,6 +15451,7 @@ pixeleze.com
 pixelsrvdmn.com
 pixeltracksys.io
 pixelunion.net
+pixfuture.com
 pixfuture.net
 pixiedust.buzzfeed.com
 pjntracker.com
@@ -15481,6 +15489,7 @@ polarbyte.com
 polarmobile.com
 policefirm1.com
 ponderousmuffled.com
+poool.fr
 popads.net
 popadvertisement.club
 popcash.net
@@ -17258,6 +17267,8 @@ snmmd.nl
 snoop.minecraft.net
 snorkletech.com
 snowplow-pixel.tradingview.com
+snowplowanalytics.com
+snplow.net
 snt1.net
 snt2.net
 snt3.net
