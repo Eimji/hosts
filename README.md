@@ -204,7 +204,8 @@ jackjones.com
 ultimedia.com
 ```
 
-- Remove fundingchoicesmessages.google.com (used to display a cookie consent popup, otherwise videos on bbc.com can't be displayed):
+- Remove fundingchoicesmessages.google.com (used to display a cookie consent
+popup, otherwise videos on bbc.com can't be displayed):
 
 ``` txt
 # Files ads_hosts.txt
@@ -266,7 +267,8 @@ adnxs.com
 - Add airlytics.airlock.twcmobile.weather.com, pixfuture.com, lodder7.biz,
 eulerian.com, analytics.net, autoketing.com, autoketing.org, dotmetrics.com,
 videostep.com, flashb.id, poool.fr, graph.facebook.com, beopw.io, 4dex.io,
-snowplowanalytics.com, snplow.net, viewpay.tv, api-analytics-de.zepp.com, api-adservices.apple.com:
+snowplowanalytics.com, snplow.net, viewpay.tv, api-analytics-de.zepp.com,
+api-adservices.apple.com:
 
 ```txt
 # File ads_hosts.txt
@@ -293,6 +295,13 @@ pixfuture.com
 poool.fr
 snowplowanalytics.com
 snplow.net
+```
+
+- Remove syndication.twimg.com
+
+```txt
+# File ads_hosts.txt
+syndication.twimg.com
 ```
 
 ## Last updated
