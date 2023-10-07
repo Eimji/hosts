@@ -297,11 +297,18 @@ snowplowanalytics.com
 snplow.net
 ```
 
-- Remove syndication.twimg.com
+- Remove syndication.twimg.com:
 
 ```txt
 # File ads_hosts.txt
 syndication.twimg.com
+```
+
+- Add sdk.privacy-center.org (whitelist):
+
+```txt
+# File ads_hosts.txt
+!sdk.privacy-center.org
 ```
 
 ## Last updated
