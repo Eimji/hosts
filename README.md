@@ -4,10 +4,10 @@
 
 ``` txt
 # Source: Block List Project
-# https://blocklistproject.github.io/Lists/
-# lists: abuse, ads
+# https://github.com/blocklistproject/Lists
+# Lists: abuse, ads
 # Github:
-# https://blocklistproject.github.io/Lists/alt-version/
+# https://github.com/blocklistproject/Lists/tree/master/alt-version
 
 ```
 
@@ -20,10 +20,10 @@ Clean the original files using VS Code with the following regex:
 
 ``` txt
 # Source: Block List Project
-# https://blocklistproject.github.io/Lists/
-# list: porn, drugs
+# https://github.com/blocklistproject/Lists
+# Lists: porn, drugs, gambling
 # Github:
-# https://blocklistproject.github.io/Lists/alt-version/
+# https://github.com/blocklistproject/Lists/tree/master/alt-version
 
 ```
 
@@ -36,10 +36,10 @@ Clean the original files using VS Code with the following regex:
 
 ``` txt
 # Source: Block List Project
-# https://blocklistproject.github.io/Lists/
-# lists: fraud, malware, phishing, piracy, ransomware, scam
+# https://github.com/blocklistproject/Lists
+# Lists: fraud, malware, phishing, piracy, ransomware, redirect, scam
 # Github:
-# https://blocklistproject.github.io/Lists/alt-version/
+# https://github.com/blocklistproject/Lists/tree/master/alt-version
 
 ```
 
@@ -51,46 +51,67 @@ Clean the original files using VS Code with the following regex:
 ## Tracking list
 
 ``` txt
-# Source: NoTrack Tracker Blocklist 
+# Source 1: NoTrack Tracker Blocklist 
 # Description: Tracker Domains Block List from quidsup.net
 # Author: QuidsUp
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
-# Source: Block List Project
-# https://blocklistproject.github.io/Lists/
-# list: tracking
+# Source 2: Block List Project
+# https://github.com/blocklistproject/Lists
+# List: tracking
 # Github:
-# https://blocklistproject.github.io/Lists/alt-version/
-
+# https://github.com/blocklistproject/Lists/tree/master/alt-version
 ```
 
 Clean the original files using VS Code with the following regex:
 
-- remove ending comments in lines: `/ #.*$/` (replace with *empty* string)
+- remove comment lines: `/#.*$\n/` (replace with *empty* string)
+- remove ending comments in lines: `/\s*#.*$/` (replace with *empty* string)
 - remove duplicated lines: `/^(.*)(\n\1)+$/` (replace with `$1`)
 
 ## Crypto list
 
 ``` txt
-# Source: NoCoin Filter List
+# Source 1: NoCoin Filter List
 # Description: Blocking Web Browser Bitcoin Mining
 #
 # Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 
+# Source 2: Block List Project
+# https://github.com/blocklistproject/Lists
+# List: crypto
+# Github:
+# https://github.com/blocklistproject/Lists/tree/master/alt-version
 ```
 
 Clean the original file using VS Code with the following regex:
 
+- remove comment lines: `/#.*$\n/` (replace with *empty* string)
 - remove `0.0.0.0` in lines
 - remove duplicated lines: `/^(.*)(\n\1)+$/` (replace with `$1`)
 
+## Fake news list
+
+``` txt
+# Source: StevenBlack/hosts
+# https://github.com/StevenBlack/hosts
+# List: https://github.com/StevenBlack/hosts/blob/master/alternates/fakenews-only/hosts
+```
+
+Clean the original files using VS Code with the following regex:
+
+- remove comment lines: `/#.*$\n/` (replace with *empty* string)
+- remove `0.0.0.0` in lines
+
 ## Fix the lists
 
-- Remove the `www.` prefix in domains
+- Remove the `www.` prefix in domains (using regex `/^www\./` with VS Code).
+
+- Remove domains with one level such as `com` or `be` with regex `/^((?!\.).)*$/`.
 
 - Remove gvt1.com and gvt2.com, etc. used by Google services and Chrome update:
 
@@ -121,7 +142,7 @@ c.woopic.com
 
 - Remove feedburner.google.com:
 
-``` txt 
+``` txt
 # File ads_hosts.txt
 feedburner.google.com
 ```
@@ -153,7 +174,6 @@ onetrust.com
 ``` txt
 # File ads_hosts.txt
 vente-privee.com
-www.vente-privee.com
 ```
 
 - Remove des.gbtcdn.com and review.gbtcdn.com:
@@ -178,8 +198,8 @@ ccmbg.com
 brightcove.com
 brightcove.net
 # File ads_hosts.txt
+brightcove.com
 api.brightcove.com
-www.brightcove.com
 ```
 
 - Remove uqload.com (video streaming):
@@ -187,7 +207,6 @@ www.brightcove.com
 ``` txt
 # Files ads_hosts.txt and security_hosts.txt
 uqload.com
-wwww.uqload.com
 ```
 
 - Remove jackjones.com:
@@ -313,4 +332,4 @@ syndication.twimg.com
 
 ## Last updated
 
-Jul. 2, 2023
+Apr. 14, 2024
