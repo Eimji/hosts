@@ -16,7 +16,6 @@ abovetopsecret.com
 abqtimes.com
 absurd.news
 activistpost.com
-actualidad.rt.com
 actualidadpanamericana.com
 adairmadisonnews.com
 adamscountytimes.com
@@ -79,7 +78,6 @@ antelopevalleytoday.com
 anticancer.news
 antiwar.com
 apopkatimes.com
-arabic.rt.com
 arbusinessdaily.com
 areyouasleep.com
 aroostooknews.com
@@ -421,7 +419,6 @@ derfmagazine.com
 desmoinesguide.com
 desmoinessun.com
 detroitcitywire.com
-deutsch.rt.com
 dewittreview.com
 diabetescure.news
 diabetessciencenews.com
@@ -605,7 +602,6 @@ fourwinds10.net
 foxcitiesnews.com
 fprnradio.com
 fracking.news
-francais.rt.com
 fredericksburgleader.com
 freebeacon.com
 freedom-articles.toolsforfreedom.com
@@ -1509,7 +1505,6 @@ romereporter.com
 ronpaulinstitute.org
 rowannews.com
 rt.com
-rtd.rt.com
 rumormillnews.com
 ruptly.tv
 rushmorestatenews.com
@@ -1955,7 +1950,6 @@ tulsastandard.com
 turmeric.news
 tuscaloosaleader.com
 tuscarawasnews.com
-tv.infowars.com
 twitchy.com
 txbusinessdaily.com
 tylerreporter.com
@@ -1981,7 +1975,6 @@ upperwestscnews.com
 upstatescnews.com
 urbandaletimes.com
 urbanreform.org
-us.blastingnews.com
 usaaroundtheworldnews.com
 usadailypolitics.com
 usahitman.com
