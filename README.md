@@ -53,10 +53,7 @@ Clean the original files using VS Code with the following regex:
 ``` txt
 # Source 1: NoTrack Tracker Blocklist 
 # Description: Tracker Domains Block List from quidsup.net
-# Author: QuidsUp
-# License: GNU General Public License v3.0
-# Home: https://quidsup.net/notrack/blocklist.php
-# @ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+# GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
 # Source 2: Block List Project
 # https://github.com/blocklistproject/Lists
@@ -76,10 +73,8 @@ Clean the original files using VS Code with the following regex:
 ``` txt
 # Source 1: NoCoin Filter List
 # Description: Blocking Web Browser Bitcoin Mining
-#
 # Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
-# License: https://mit-license.org/
 
 # Source 2: Block List Project
 # https://github.com/blocklistproject/Lists
@@ -330,6 +325,13 @@ syndication.twimg.com
 !sdk.privacy-center.org
 ```
 
+- Remove allawnos.com:
+
+```txt
+# File tracking_hosts.txt
+allawnos.com
+```
+
 ## Last updated
 
-Apr. 14, 2024
+Apr. 20, 2024
