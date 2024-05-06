@@ -21,7 +21,7 @@ Clean the original files using VS Code with the following regex:
 ``` txt
 # Source: Block List Project
 # https://github.com/blocklistproject/Lists
-# Lists: porn, drugs, gambling
+# Lists: porn, drugs
 # Github:
 # https://github.com/blocklistproject/Lists/tree/master/alt-version
 
@@ -101,6 +101,23 @@ Clean the original files using VS Code with the following regex:
 
 - remove comment lines: `/#.*$\n/` (replace with *empty* string)
 - remove `0.0.0.0` in lines
+
+## Gambling list
+
+``` txt
+# Source: Block List Project
+# https://github.com/blocklistproject/Lists
+# List: gambling
+# Github:
+# https://github.com/blocklistproject/Lists/tree/master/alt-version
+
+```
+
+Clean the original files using VS Code with the following regex:
+
+- remove comment lines: `/#.*$\n/` (replace with *empty* string)
+- remove ending comments in lines: `/\s*#.*$/` (replace with *empty* string)
+- remove duplicated lines: `/^(.*)(\n\1)+$/` (replace with `$1`)
 
 ## Fix the lists
 
@@ -332,6 +349,17 @@ syndication.twimg.com
 allawnos.com
 ```
 
+- Add pmu.fr, unibet.fr, unibet.ro, turf-fr.com, racing2day.com:
+
+```txt
+# File gambling_hosts.txt
+pmu.fr
+unibet.fr
+unibet.ro
+turf-fr.com
+racing2day.com
+```
+
 ## Last updated
 
-Apr. 20, 2024
+May 06, 2024
