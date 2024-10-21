@@ -210,6 +210,7 @@ active-trk7.com
 activeconversion.com
 activelysmileintimate.com
 activesitetracking.net
+actonservice.com
 actuallyhierarchyjudgement.com
 acuityplatform.com
 acuityplatform.net
@@ -414,6 +415,7 @@ adnxs.org
 adnxs.us
 adnxtr.com
 adnxus.com
+adobedc.net
 adobedtm.com
 adobetag.com
 adocean.pl
@@ -717,6 +719,7 @@ aerserv.com
 aetterweb.info
 af.shalltry.com
 affec.tv
+affex.org
 affgold.com
 affhit.com
 affilbox.cz
@@ -1582,6 +1585,7 @@ bounceads.net
 bounceexchange.com
 boundlozenge.com
 boxofficeliterally.com
+bp01.net
 bpmask.com
 bpu.samsungelectronics.com
 brainboxdigital.com
@@ -2096,6 +2100,7 @@ cmon2.com
 cn-rtb.com
 cname-ali-asia-stsdk.vivoglobal.com
 cname-asia-stsdk09.vivoglobal.com
+cname.ebis.ne.jp
 cnt-tm-1.com
 cnt.akavita.com
 cnt.rambler.ru
@@ -2549,6 +2554,7 @@ ddf-t1.com
 ddf-t2.com
 ddf-t3.com
 ddlmob.com
+ddns.dataunlocker.com
 de.coremetrics.com
 de17a.com
 dealer.com
@@ -2714,6 +2720,7 @@ dn360.net
 dnaxddnc.com
 dnelist.com
 dnn506yrbagrg.cloudfront.net
+dnsdelegation.io
 do-not-tracker.org
 docalytics.com
 doceree.com
@@ -3414,6 +3421,7 @@ gfe.nvidia.com
 gff6166tdt2i4fc155zi11.info
 gfsql.geforce.com
 gfswl.geforce.com
+ghochv3eng.trafficmanager.net
 ghostery.com
 giddinessscrewscandal.com
 giftedhazelsecond.com
@@ -4402,6 +4410,7 @@ m2track.co
 m6r.eu
 madcpms.com
 madisonlogic.com
+madmetrics.com
 madnessindians.com
 madnxs.com
 madnxs.net
@@ -16522,6 +16531,7 @@ mlnadvertising.com
 mlsend2.com
 mltracker.webtraffic.com.br
 mltracking.com
+mm.actionlink.jp
 mmetrics.com
 mmetrics.mobi
 mmetrics.net
@@ -19364,6 +19374,7 @@ stackla.com
 staggeredravehospitality.com
 stainclout.com
 stampsmindlessscrap.com
+starman.fathomdns.com
 startappservice.com
 startup.mobile.yandex.net
 stat-rock.com
@@ -19473,6 +19484,7 @@ stopemails.info
 storagelassitudeblend.com
 storeen.ldmnq.com
 stores-counters.wix.com
+storetail.io
 storeus.ldmnq.com
 stormartists.com
 stormiq.com
@@ -20072,6 +20084,7 @@ trasre.com
 travel-options.com
 travelaudience.com
 traveloffer-uk.com
+trck.a8.net
 trckingbyte.com
 trckrry.com
 treasuredata.com
@@ -20596,6 +20609,7 @@ wisepops.com
 wishesantennarightfully.com
 wistia.net
 witalfieldt.com
+wizaly.com
 wkqcnkstso.com
 wmgroup.us
 wmgtr.com

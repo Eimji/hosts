@@ -239,7 +239,7 @@ ultimedia.com
 popup, otherwise videos on bbc.com can't be displayed):
 
 ``` txt
-# Files ads_hosts.txt
+# File ads_hosts.txt
 fundingchoices.google.com
 fundingchoicesmessages.google.com
 ```
@@ -258,10 +258,11 @@ codepushupdates.azureedge.net
 taboola.com.edgekey.net
 ```
 
-- Remove sdk.privacy-center.org:
+- Remove privacy-center.org, sdk.privacy-center.org:
 
 ``` txt
 # File ads_hosts.txt
+privacy-center.org
 sdk.privacy-center.org
 ```
 
@@ -360,6 +361,31 @@ turf-fr.com
 racing2day.com
 ```
 
+- Remove kinesis.us-east-1.amazonaws.com, kinesis.us-east-1amazonaws.com (AWS
+kinesis is a data stream processing platform in the amazon cloud):
+
+```txt
+# File ads_hosts.txt
+kinesis.us-east-1.amazonaws.com
+kinesis.us-east-1amazonaws.com
+```
+
+- Remove tagcommander.com:
+
+```txt
+# Files ads_hosts.txt, tracking_hosts.txt
+tagcommander.com
+```
+
+- Add madmetrics.com, adobedc.net, dnsdelegation.io, storetail.io, wizaly.com,
+affex.org, bp01.net, trck.a8.net, mm.actionlink.jp, cname.ebis.ne.jp,
+actonservice.com, ddns.dataunlocker.com, starman.fathomdns.com,
+ghochv3eng.trafficmanager.net in the tracking list:
+
+```txt
+# File tracking_hosts.txt
+```
+
 ## Last updated
 
-May 06, 2024
+October 21, 2024
