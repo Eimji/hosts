@@ -386,6 +386,13 @@ ghochv3eng.trafficmanager.net in the tracking list:
 # File tracking_hosts.txt
 ```
 
+- Remove embed.ly (needed for videos, cdn.embed.ly):
+
+```txt
+# File tracking_hosts.txt
+embed.ly
+```
+
 ## Last updated
 
-October 21, 2024
+December 2, 2024
